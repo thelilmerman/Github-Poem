@@ -1,8 +1,6 @@
 Experiment in Github Repo Poetry
 
 Ode to a Repo:
-Repo is the new hope of text,
-text within repo,
 Repo,
 Repo,
 This is
@@ -18,5 +16,7 @@ Repo!
 Repo!
 Repo!
 REPO!
+REPOOOOOOOOOOO
+
 Is this the real life...
 Is this just fantasy? :)
