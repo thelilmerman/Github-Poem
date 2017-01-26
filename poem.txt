@@ -1,12 +1,17 @@
-Github Repo
+Experiment in Github Repo Poetry
 
-Repo
-Repo
+Ode to a Repo:
+Repo,
+Repo,
 This is
-a Repo
+a Repo...
+
+Do you want to commit to this repo?
+I don't know?
+Ok!
 
 Let's commit to this
-Repo
+Repo!
 
 Repo!
 Repo!
