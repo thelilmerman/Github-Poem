@@ -10,7 +10,9 @@ Do you want to commit to this repo?
 I don't know?
 Ok!
 
-Let's commit to this
+Let's commit to this!
+This will be a fun experiment.
+I promise!
 Repo!
 
 Repo!
