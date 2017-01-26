@@ -1,6 +1,8 @@
 Experiment in Github Repo Poetry
 
 Ode to a Repo:
+Repo is the new hope of text,
+text within repo,
 Repo,
 Repo,
 This is
